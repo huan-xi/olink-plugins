@@ -18,11 +18,11 @@ git submodule update --init --recursive
 
 ## 插件列表
 
-| 本地目录 | domain | 独立仓库 |
-|---|---|---|
-| `xgimi/` | `xgimi` | https://github.com/huan-xi/olink-plugin-xgimi |
-| `dreame/` | `dreame` | https://github.com/huan-xi/olink-plugin-dreame |
-| `speaker-cast/` | `speaker_cast` | https://github.com/huan-xi/olink-plugin-speaker-cast |
+| 本地目录 | domain | 功能描述 | 独立仓库 |
+|---|---|---|---|
+| `xgimi/` | `xgimi` | 极米神灯 / 投影仪：云账号登录与设备列表、局域网发现与直连控制（开关/亮度/色温等），经 Host 接入 HomeKit/Matter | https://github.com/huan-xi/olink-plugin-xgimi |
+| `dreame/` | `dreame` | 追觅扫地机：DreameHome 多账号云登录、云+LAN 控制、清扫/回充/房间与地图、设备接入与能力映射 | https://github.com/huan-xi/olink-plugin-dreame |
+| `speaker-cast/` | `speaker_cast` | 米家音箱 AirPlay 投送：本机作 AirPlay 接收端，转 PCM 后经局域网推到米家音箱播放（服务型插件，不接 HAP） | https://github.com/huan-xi/olink-plugin-speaker-cast |
 
 ## 开发文档
 
