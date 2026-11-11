@@ -1,0 +1,9 @@
+[submodule "xgimi"]
+	path = xgimi
+	url = https://github.com/huan-xi/olink-plugin-xgimi.git
+[submodule "dreame"]
+	path = dreame
+	url = https://github.com/huan-xi/olink-plugin-dreame.git
+[submodule "speaker-cast"]
+	path = speaker-cast
+	url = https://github.com/huan-xi/olink-plugin-speaker-cast.git
